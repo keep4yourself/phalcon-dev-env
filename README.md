@@ -1,5 +1,5 @@
 # phalcon-dev-env
-Dev environment in Docker with Apache + PHP7 + Phalcon
+Dev environment in Docker with Apache + PHP7 + Phalcon 4
 
 This is part of a series of article hosted on keepforyourself.com
 Article URL
